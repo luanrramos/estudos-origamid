@@ -1,2 +1,1 @@
-# estudos-origamid
-- <h2> Repositório destinado a todas as anotações e exercícios práticas realizados durante o curso intensivo de programação da Origamid. </h2>
+- <h2> Repositório destinado a todas as anotações, exercícios e projetos práticos realizados durante o curso intensivo de programação da Origamid. </h2>
